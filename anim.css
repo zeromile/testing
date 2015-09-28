@@ -1,0 +1,16 @@
+#testy:active {
+    width: 300px;
+    background-color:gray;
+    color:white;
+}
+#testy{
+    
+    transition: width 2s, background-color 2s, color 2s;
+    background-color:pink;
+    padding:20px;
+    margin-right:40px;
+}
+div {
+    float:left;
+    width:40%;
+}
